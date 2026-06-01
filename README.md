@@ -13,6 +13,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Communities](#communities)
 - [LinkedIn](#linkedin)
 - [Platforms](#platforms)
+- [Helpful Tools](#helpful-tools)
 - [Other catalogs](#other-catalogs)
 
 ## Newsletters
